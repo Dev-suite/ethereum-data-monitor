@@ -1,0 +1,18 @@
+{
+  "name": "price-tracking-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@quicknode/sdk": "^2.1.2",
+    "axios": "^1.6.7",
+    "ethers": "^6.11.1",
+    "web3": "^4.5.0"
+  }
+}
