@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 // QuickNode RPC endpoint
-const quickNodeRpcEndpoint = `YOUR_QUICKNODE_RPC_ENDPOINT`;
+const quickNodeRpcEndpoint = `https://nameless-thrumming-waterfall.quiknode.pro/04fccd4e469673f75d9cd284597b504f96bcf5af/`;
 
 // Function to fetch Ethereum data using QuickNode's RPC endpoint
 async function getEthereumData() {
